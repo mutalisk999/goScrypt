@@ -1,6 +1,6 @@
 # cmake -G "MinGW Makefiles" . && make
 
-cmake_minimum_required(VERSION 3.11)
+cmake_minimum_required(VERSION 3.10)
 
 add_definitions()
 
